@@ -32,6 +32,11 @@ export default {
       type: "date",
     },
     {
+      name: "link",
+      title: "Link",
+      type: "url"
+    },
+    {
       name: "dateEnded",
       title: "DateEnded",
       type: "date",
